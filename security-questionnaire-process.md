@@ -44,8 +44,19 @@ Linq regularly receives security and compliance questionnaires from enterprise c
 ## 6. Continuous Improvement
    - **Training:**  
      - Conduct regular training sessions for staff on the latest security and compliance requirements.
-   - **Process Audits:**  
-     - Periodically audit the questionnaire handling process to ensure compliance with internal policies and industry standards.
-     - Conduct quarterly reviews of answer database.
-     - Monitor for new compliance requirements in target industries
+   - **Process Audits:**
+      - Periodically audit the questionnaire handling process to ensure compliance with internal policies and industry standards.
+      - Conduct quarterly reviews of answer database.
+      - Monitor for new compliance requirements in target industries
+
+
+## Path 1: 
+![image](https://github.com/user-attachments/assets/2b32c7af-18da-4c8c-bcc1-9c2c0574f196)
+
+## Path 2: 
+![download](https://github.com/user-attachments/assets/0104982c-9b9d-45cb-9df2-cc7d36db031a)
+
+
+
+ 
 
